@@ -1,2 +1,2 @@
 # codish
-ML case studies
+repo for ML case studies
