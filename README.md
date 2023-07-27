@@ -1,4 +1,5 @@
 # codish
 repo for ML case studies
 
-Arun Sharma bvajdgbqahjd
+Arun Sharma 
+Neeraj
